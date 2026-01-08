@@ -93,3 +93,10 @@ print(predict_sentiment(review))
 - Document preprocessing steps
 - Analyze model strengths and limitations
 - Provide insights and recommendations
+
+## Results
+
+### Dataset Information
+- **Source**: Datafiniti Amazon Consumer Reviews (Kaggle)
+- **Reviews analyzed**: [Add your number]
+- **Date range**: May 2019
