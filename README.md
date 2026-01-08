@@ -4,6 +4,13 @@ This project performs sentiment analysis on Amazon product reviews using Natural
 ## Project Overview
 This project performs sentiment analysis on Amazon product reviews using Natural Language Processing (NLP) techniques. The system analyzes customer reviews to determine whether they express positive, negative, or neutral sentiment, helping businesses understand customer opinions and feedback at scale.
 
+## Dataset Used
+This dataset is a list of over 28,000 consumer reviews for Amazon products like the Kindle, Fire TV Stick, and more from Datafiniti's Product Database updated between February 2019 and April 2019. Each product listing includes the name Amazon in the Brand and Manufacturer field. All fields within this dataset have been flattened, with some omitted, to streamline your data analysis. This version is a sample of a large dataset. The full dataset is available through Datafiniti.
+
+To run the Sentiment Analysis, please download the the dataset as a CSV named: Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products_May19.csv
+
+Kaggle link for dataset: [Datafiniti Amazon Consumer Reviews of Amazon Products](https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products?resource=download&select=Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products_May19.csv)
+
 ## Features
 - Text preprocessing (stop word removal, text cleaning)
 - Sentiment classification (positive, negative, neutral)
