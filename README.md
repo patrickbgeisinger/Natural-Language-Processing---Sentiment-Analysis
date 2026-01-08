@@ -4,7 +4,7 @@ This project performs sentiment analysis on Amazon product reviews using Natural
 ## Project Overview
 This project performs sentiment analysis on Amazon product reviews using Natural Language Processing (NLP) techniques. The system analyzes customer reviews to determine whether they express positive, negative, or neutral sentiment, helping businesses understand customer opinions and feedback at scale.
 
-## 🚀 Features
+## Features
 - Text preprocessing (stop word removal, text cleaning)
 - Sentiment classification (positive, negative, neutral)
 - Polarity score calculation (-1 to +1 scale)
@@ -12,7 +12,7 @@ This project performs sentiment analysis on Amazon product reviews using Natural
 - Sample testing on product reviews
 - Comprehensive analysis report
 
-## 💻 Technologies Used
+## Technologies Used
 - **Python 3.8+**
 - **spaCy** - NLP library for text processing
 - **TextBlob** - Sentiment analysis
@@ -139,17 +139,17 @@ Sentiment: Positive - Polarity Score: 0.2450
 - Mixed sentiment reviews may be misclassified
 - Domain-specific terminology requires fine-tuning
 
-## 📖 Documentation
+## Documentation
 For detailed information about the analysis process, preprocessing steps, and evaluation metrics, please refer to:
 - **sentiment_analysis_report.pdf** - Comprehensive project report
 
-## 👤 Author
+## Author
 Patrick Geisinger
 
-## 📄 License
+## License
 This project is part of the Arizona State University bootcamp curriculum.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 - Arizona State University for the project guidelines
 - Datafiniti for the Amazon reviews dataset
 - spaCy and TextBlob development teams
