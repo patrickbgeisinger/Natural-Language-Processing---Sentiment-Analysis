@@ -65,6 +65,7 @@ def predict_sentiment(review_text):
 # Test it
 review = "This product is amazing! I love it."
 print(predict_sentiment(review))
+```
 
 ## Project Workflow
 
@@ -94,7 +95,7 @@ print(predict_sentiment(review))
 - Document preprocessing steps
 - Analyze model strengths and limitations
 - Provide insights and recommendations
-```
+
 
 ## Results
 
